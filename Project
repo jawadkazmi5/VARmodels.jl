@@ -1,0 +1,7 @@
+name = "VARmodels"
+uuid = "1e08e0e8-8064-49d0-8ad0-97a954c538de"
+authors = ["j.syed "]
+version = "0.1.0"
+
+[deps]
+TimeSeries = "9e3dc215-6440-5c97-bce1-76c03772f85e"
